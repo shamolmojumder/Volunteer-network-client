@@ -19,8 +19,8 @@ const events=[
         pic:'birdHouse.png'
     },
     {
-        name:'childSupport',
-        pic:'childSupport.png'
+        name:'cleanWater',
+        pic:'cleanWater.png'
     },
 ]
 const Home = () => {
