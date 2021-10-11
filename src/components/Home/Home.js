@@ -25,10 +25,6 @@ const events=[
 ]
 const Home = () => {
 
-    
-
-
-
     return (
         <div className="row">
             {
